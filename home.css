@@ -1,0 +1,40 @@
+html {
+	height: 100%;
+}
+
+body {
+	background-color: #F2D4BC;
+}
+
+#content {
+	text-align: center;
+	padding-top: 25%;
+}
+
+h1 {
+	font-family: 'Lora', serif;
+	font-weight: 700;
+	font-size: 5em;
+}
+
+h3, h4 {
+	font-family: 'Lora', serif;
+	font-weight: 700;
+}
+
+hr {
+	width: 400px;
+}
+
+.flex {
+	display: flex;
+  	flex-wrap: wrap;
+}
+
+.daysOfCode {
+	text-align: center;
+}
+
+.about {
+	text-align: center;
+}
